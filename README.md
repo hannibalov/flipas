@@ -7,6 +7,10 @@ Create a website or landing page for your favorite product, company, bar or band
 - Complexity, style and tech stack of your choice
 - Deliverable: Functional deployed link (e.g. on Vercel)
 
+---
+
+https://flipasstavvy.vercel.app/dashboard
+
 ## 2. Short Answer Questions
 
 Please provide 1-3 paragraphs per question:

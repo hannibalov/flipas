@@ -11,7 +11,7 @@ export const UpsertVideo = () => {
   const [title, setTitle] = React.useState("");
 
   const { videoId } = useParams<{ videoId?: string }>();
-  const { data: video, error } = useVideo(videoId || "");
+  const { data: video } = useVideo(videoId || "");
   const location = useLocation();
 
   useEffect(() => {
